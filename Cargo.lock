@@ -17,3 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "aoc2022_04"
 version = "0.1.0"
+
+[[package]]
+name = "aoc2022_05"
+version = "0.1.0"
